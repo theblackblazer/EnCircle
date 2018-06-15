@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "732494103694",
+    "firebase_url": "https://gingerly-e9f23.firebaseio.com",
+    "project_id": "gingerly-e9f23",
+    "storage_bucket": "gingerly-e9f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732494103694:android:3016087e5054f57c",
+        "android_client_info": {
+          "package_name": "com.khatarnak.gingerly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732494103694-9nmjds9hbvjhl91416e850ef2eso88pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khatarnak.gingerly",
+            "certificate_hash": "1765bb14be97442ee6dba09187d23fe109418ce9"
+          }
+        },
+        {
+          "client_id": "732494103694-0vbpca21kr9spekvsi0cj9hjkmhgvdm8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "732494103694-0vbpca21kr9spekvsi0cj9hjkmhgvdm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCQrwgR5R5p6m0DoxRdj4UA5CCkBYlDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732494103694-0vbpca21kr9spekvsi0cj9hjkmhgvdm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
